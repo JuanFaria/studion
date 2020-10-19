@@ -1,0 +1,24 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Pagina inicial para fornecedores e serviços Studion Event.",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(http://github.com/juanfaria/studion.git)"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Git"
+  ],
+  "author": "Juan Faria \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[n\u001b[3~\u001b[Faria",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
